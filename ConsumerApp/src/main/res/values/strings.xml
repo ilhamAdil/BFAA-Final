@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ConsumerApp</string>
+    <string name="name_users">Nama User</string>
+    <string name="lorem">lorem ipsum dolor sit amet</string>
+    <string name="data_received">mojombo</string>
+    <string name="detail_user">detail user</string>
+    <string name="username">username</string>
+    <string name="Statistics">Statistics</string>
+    <string name="Follower">Followers</string>
+    <string name="jumlahfollower">1200</string>
+    <string name="Following">Following</string>
+    <string name="Company">Company</string>
+    <string name="jumlah_following">400</string>
+    <string name="perusahaan">company</string>
+    <string name="repository">Repository</string>
+    <string name="Location">Location</string>
+    <string name="lokasi">lokasi</string>
+    <string name="akun">20</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Search User</string>
+    <string name="tab_follower">Followers</string>
+    <string name="tab_following">Following</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="list_favorite">Favorite List</string>
+</resources>

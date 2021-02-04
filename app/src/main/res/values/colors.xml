@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4CAF50</color>
+    <color name="colorPrimaryDark">#4CAF50</color>
+    <color name="colorAccent">#FF5722</color>
+    <color name="orange">#FF5722</color>
+    <color name="lightGrey">#CED0CE</color>
+    <color name="putihijo">#bfffbf</color>
+    <color name="ijoterang">#2E933C</color>
+</resources>
