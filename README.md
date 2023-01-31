@@ -35,7 +35,7 @@ settings -> developer settings -> personal access token -> generate token
 
 ### Followers and Following list
 ![Screenshot from 2022-03-23 18-42-11](https://user-images.githubusercontent.com/66354919/215674996-a0e32739-c74f-4b59-8133-7a672a495683.png)
-![Screenshot from 2022-03-23 18-42-19](https://user-images.githubusercontent.com/66354919/215675011-d11211f4-3d46-4ad9-a243-9eb659706e96.png)
+![Screenshot from 2022-03-23 18-42-19](https://user-images.githubusercontent.com/66354919/215675472-75d0f10f-650f-4586-af98-662fc33059e2.png)
 
 ### Search user
 ![Screenshot from 2022-03-23 18-42-50](https://user-images.githubusercontent.com/66354919/215675222-6fa337c7-9b21-4ac6-9781-c22779dc00d0.png)
